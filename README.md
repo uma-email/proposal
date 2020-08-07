@@ -1,2 +1,2 @@
-# uma-at-email-system
-UMA @ Email System
+# uauthorization-enhanced-email-system
+Authorization-Enhanced Email System
