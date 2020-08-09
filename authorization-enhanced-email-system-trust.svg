@@ -13,21 +13,17 @@
   <font id="EmbeddedFont_1" horiz-adv-x="2048">
    <font-face font-family="Liberation Sans embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1852" descent="423"/>
    <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
-   <glyph unicode="y" horiz-adv-x="1033" d="M 191,-425 C 142,-425 100,-421 67,-414 L 67,-279 C 92,-283 120,-285 151,-285 263,-285 352,-203 417,-38 L 434,5 5,1082 197,1082 425,484 C 428,475 432,464 437,451 442,438 457,394 482,320 507,246 521,205 523,196 L 593,393 830,1082 1020,1082 604,0 C 559,-115 518,-201 479,-258 440,-314 398,-356 351,-384 304,-411 250,-425 191,-425 Z"/>
    <glyph unicode="u" horiz-adv-x="874" d="M 314,1082 L 314,396 C 314,325 321,269 335,230 349,191 371,162 402,145 433,128 478,119 537,119 624,119 692,149 742,208 792,267 817,350 817,455 L 817,1082 997,1082 997,231 C 997,105 999,28 1003,0 L 833,0 C 832,3 832,12 831,27 830,42 830,59 829,78 828,97 826,132 825,185 L 822,185 C 781,110 733,58 679,27 624,-4 557,-20 476,-20 357,-20 271,10 216,69 161,128 133,225 133,361 L 133,1082 314,1082 Z"/>
    <glyph unicode="t" horiz-adv-x="531" d="M 554,8 C 495,-8 434,-16 372,-16 228,-16 156,66 156,229 L 156,951 31,951 31,1082 163,1082 216,1324 336,1324 336,1082 536,1082 536,951 336,951 336,268 C 336,216 345,180 362,159 379,138 408,127 450,127 474,127 509,132 554,141 L 554,8 Z"/>
    <glyph unicode="s" horiz-adv-x="901" d="M 950,299 C 950,197 912,118 835,63 758,8 650,-20 511,-20 376,-20 273,2 200,47 127,91 79,160 57,254 L 216,285 C 231,227 263,185 311,158 359,131 426,117 511,117 602,117 669,131 712,159 754,187 775,229 775,285 775,328 760,362 731,389 702,416 654,438 589,455 L 460,489 C 357,516 283,542 240,568 196,593 162,624 137,661 112,698 100,743 100,796 100,895 135,970 206,1022 276,1073 378,1099 513,1099 632,1099 727,1078 798,1036 868,994 912,927 931,834 L 769,814 C 759,862 732,899 689,925 645,950 586,963 513,963 432,963 372,951 333,926 294,901 275,864 275,814 275,783 283,758 299,738 315,718 339,701 370,687 401,673 467,654 568,629 663,605 732,583 774,563 816,542 849,520 874,495 898,470 917,442 930,410 943,377 950,340 950,299 Z"/>
    <glyph unicode="r" horiz-adv-x="530" d="M 142,0 L 142,830 C 142,906 140,990 136,1082 L 306,1082 C 311,959 314,886 314,861 L 318,861 C 347,954 380,1017 417,1051 454,1085 507,1102 575,1102 599,1102 623,1099 648,1092 L 648,927 C 624,934 592,937 552,937 477,937 420,905 381,841 342,776 322,684 322,564 L 322,0 142,0 Z"/>
-   <glyph unicode="m" horiz-adv-x="1457" d="M 768,0 L 768,686 C 768,791 754,863 725,903 696,943 645,963 570,963 493,963 433,934 388,875 343,816 321,734 321,627 L 321,0 142,0 142,851 C 142,977 140,1054 136,1082 L 306,1082 C 307,1079 307,1070 308,1055 309,1040 310,1024 311,1005 312,986 313,950 314,897 L 317,897 C 356,974 400,1027 450,1057 500,1087 561,1102 633,1102 715,1102 780,1086 828,1053 875,1020 908,968 927,897 L 930,897 C 967,970 1013,1022 1066,1054 1119,1086 1183,1102 1258,1102 1367,1102 1447,1072 1497,1013 1546,954 1571,856 1571,721 L 1571,0 1393,0 1393,686 C 1393,791 1379,863 1350,903 1321,943 1270,963 1195,963 1116,963 1055,934 1012,876 968,817 946,734 946,627 L 946,0 768,0 Z"/>
+   <glyph unicode="o" horiz-adv-x="980" d="M 1053,542 C 1053,353 1011,212 928,119 845,26 724,-20 565,-20 407,-20 288,28 207,125 126,221 86,360 86,542 86,915 248,1102 571,1102 736,1102 858,1057 936,966 1014,875 1053,733 1053,542 Z M 864,542 C 864,691 842,800 798,868 753,935 679,969 574,969 469,969 393,935 346,866 299,797 275,689 275,542 275,399 298,292 345,221 391,149 464,113 563,113 671,113 748,148 795,217 841,286 864,395 864,542 Z"/>
    <glyph unicode="l" horiz-adv-x="187" d="M 138,0 L 138,1484 318,1484 318,0 138,0 Z"/>
    <glyph unicode="i" horiz-adv-x="187" d="M 137,1312 L 137,1484 317,1484 317,1312 137,1312 Z M 137,0 L 137,1082 317,1082 317,0 137,0 Z"/>
-   <glyph unicode="e" horiz-adv-x="980" d="M 276,503 C 276,379 302,283 353,216 404,149 479,115 578,115 656,115 719,131 766,162 813,193 844,233 861,281 L 1019,236 C 954,65 807,-20 578,-20 418,-20 296,28 213,123 129,218 87,360 87,548 87,727 129,864 213,959 296,1054 416,1102 571,1102 889,1102 1048,910 1048,527 L 1048,503 276,503 Z M 862,641 C 852,755 823,838 775,891 727,943 658,969 568,969 481,969 412,940 361,882 310,823 282,743 278,641 L 862,641 Z"/>
    <glyph unicode="a" horiz-adv-x="1060" d="M 414,-20 C 305,-20 224,9 169,66 114,123 87,202 87,302 87,414 124,500 198,560 271,620 390,652 554,656 L 797,660 797,719 C 797,807 778,870 741,908 704,946 645,965 565,965 484,965 426,951 389,924 352,897 330,853 323,793 L 135,810 C 166,1005 310,1102 569,1102 705,1102 807,1071 876,1009 945,946 979,856 979,738 L 979,272 C 979,219 986,179 1000,152 1014,125 1041,111 1080,111 1097,111 1117,113 1139,118 L 1139,6 C 1094,-5 1047,-10 1000,-10 933,-10 885,8 855,43 824,78 807,132 803,207 L 797,207 C 751,124 698,66 637,32 576,-3 501,-20 414,-20 Z M 455,115 C 521,115 580,130 631,160 682,190 723,231 753,284 782,336 797,390 797,445 L 797,534 600,530 C 515,529 451,520 408,504 364,488 330,463 307,430 284,397 272,353 272,299 272,240 288,195 320,163 351,131 396,115 455,115 Z"/>
    <glyph unicode="U" horiz-adv-x="1192" d="M 731,-20 C 616,-20 515,1 429,43 343,85 276,146 229,226 182,306 158,401 158,512 L 158,1409 349,1409 349,528 C 349,399 382,302 447,235 512,168 607,135 730,135 857,135 955,170 1026,239 1096,308 1131,408 1131,541 L 1131,1409 1321,1409 1321,530 C 1321,416 1297,318 1249,235 1200,152 1132,89 1044,46 955,2 851,-20 731,-20 Z"/>
    <glyph unicode="T" horiz-adv-x="1192" d="M 720,1253 L 720,0 530,0 530,1253 46,1253 46,1409 1204,1409 1204,1253 720,1253 Z"/>
-   <glyph unicode="S" horiz-adv-x="1192" d="M 1272,389 C 1272,259 1221,158 1120,87 1018,16 875,-20 690,-20 347,-20 148,99 93,338 L 278,375 C 299,290 345,228 414,189 483,149 578,129 697,129 820,129 916,150 983,193 1050,235 1083,297 1083,379 1083,425 1073,462 1052,491 1031,520 1001,543 963,562 925,581 880,596 827,609 774,622 716,635 652,650 541,675 456,699 399,724 341,749 295,776 262,807 229,837 203,872 186,913 168,954 159,1000 159,1053 159,1174 205,1267 298,1332 390,1397 522,1430 694,1430 854,1430 976,1406 1061,1357 1146,1308 1205,1224 1239,1106 L 1051,1073 C 1030,1148 991,1202 933,1236 875,1269 795,1286 692,1286 579,1286 493,1267 434,1230 375,1193 345,1137 345,1063 345,1020 357,984 380,956 403,927 436,903 479,884 522,864 609,840 738,811 781,801 825,791 868,781 911,770 952,758 991,744 1030,729 1067,712 1102,693 1136,674 1166,650 1191,622 1216,594 1236,561 1251,523 1265,485 1272,440 1272,389 Z"/>
    <glyph unicode="M" horiz-adv-x="1377" d="M 1366,0 L 1366,940 C 1366,1044 1369,1144 1375,1240 1342,1121 1313,1027 1287,960 L 923,0 789,0 420,960 364,1130 331,1240 334,1129 338,940 338,0 168,0 168,1409 419,1409 794,432 C 807,393 820,351 833,306 845,261 853,228 857,208 862,235 874,275 891,330 908,384 919,418 925,432 L 1293,1409 1538,1409 1538,0 1366,0 Z"/>
-   <glyph unicode="E" horiz-adv-x="1138" d="M 168,0 L 168,1409 1237,1409 1237,1253 359,1253 359,801 1177,801 1177,647 359,647 359,156 1278,156 1278,0 168,0 Z"/>
    <glyph unicode="A" horiz-adv-x="1377" d="M 1167,0 L 1006,412 364,412 202,0 4,0 579,1409 796,1409 1362,0 1167,0 Z M 685,1265 L 676,1237 C 659,1182 635,1111 602,1024 L 422,561 949,561 768,1026 C 749,1072 731,1124 712,1182 L 685,1265 Z"/>
    <glyph unicode=" " horiz-adv-x="556"/>
   </font>
@@ -112,7 +108,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -175,10 +171,10 @@
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id5">
-        <rect class="BoundingBox" stroke="none" fill="none" x="21745" y="6655" width="2228" height="1500"/>
-        <path fill="rgb(180,199,220)" stroke="none" d="M 22859,8141 L 21758,8141 21758,6668 23959,6668 23959,8141 22859,8141 Z"/>
-        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" stroke-linejoin="miter" d="M 22859,8141 L 21758,8141 21758,6668 23959,6668 23959,8141 22859,8141 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Syntax" font-size="494px" font-weight="700"><tspan class="TextPosition" x="22269" y="7603"><tspan fill="rgb(0,0,0)" stroke="none">MTA</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="21737" y="6655" width="2228" height="1500"/>
+        <path fill="rgb(180,199,220)" stroke="none" d="M 22851,8141 L 21750,8141 21750,6668 23951,6668 23951,8141 22851,8141 Z"/>
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" stroke-linejoin="miter" d="M 22851,8141 L 21750,8141 21750,6668 23951,6668 23951,8141 22851,8141 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Syntax" font-size="494px" font-weight="700"><tspan class="TextPosition" x="22261" y="7603"><tspan fill="rgb(0,0,0)" stroke="none">MTA</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
@@ -409,16 +405,16 @@
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id25">
-        <rect class="BoundingBox" stroke="none" fill="none" x="18722" y="7404" width="3038" height="1171"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 21758,7405 L 18872,7405 18872,8355"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="18722" y="7404" width="3030" height="1171"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 21750,7405 L 18872,7405 18872,8355"/>
         <path fill="rgb(0,0,0)" stroke="none" d="M 18872,8574 L 19022,8335 18722,8335 18872,8574 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id26">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6776" y="6154" width="16233" height="517"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 6777,6669 L 6777,6155 22858,6155 22858,6450"/>
-        <path fill="rgb(0,0,0)" stroke="none" d="M 22858,6669 L 23008,6430 22708,6430 22858,6669 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="6776" y="6154" width="16225" height="517"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 6777,6669 L 6777,6155 22850,6155 22850,6450"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 22850,6669 L 23000,6430 22700,6430 22850,6669 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
@@ -444,9 +440,9 @@
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id30">
-        <rect class="BoundingBox" stroke="none" fill="none" x="22709" y="8142" width="302" height="3064"/>
-        <path fill="none" stroke="rgb(204,204,204)" d="M 22877,11204 L 22859,8361"/>
-        <path fill="rgb(204,204,204)" stroke="none" d="M 22858,8142 L 22709,8382 23009,8380 22858,8142 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="22702" y="8142" width="302" height="3064"/>
+        <path fill="none" stroke="rgb(204,204,204)" d="M 22877,11204 L 22852,8361"/>
+        <path fill="rgb(204,204,204)" stroke="none" d="M 22850,8142 L 22702,8383 23002,8380 22850,8142 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
@@ -713,7 +709,155 @@
         <rect class="BoundingBox" stroke="none" fill="none" x="11807" y="6412" width="5663" height="1249"/>
         <path fill="none" stroke="rgb(180,199,220)" stroke-width="635" stroke-linejoin="round" d="M 12125,7036 L 15680,7036"/>
         <path fill="rgb(180,199,220)" stroke="none" d="M 17469,7036 L 15597,6412 15597,7660 17469,7036 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="13214" y="7165"><tspan fill="rgb(0,0,0)" stroke="none">Email System Trust</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="14001" y="7165"><tspan fill="rgb(0,0,0)" stroke="none">Mail Trust</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="Group">
+       <g class="com.sun.star.drawing.PolyPolygonShape">
+        <g id="id56">
+         <rect class="BoundingBox" stroke="none" fill="none" x="12126" y="10462" width="5345" height="1149"/>
+         <g>
+          <defs>
+           <linearGradient id="gradient1" x1="12126" y1="11036" x2="17470" y2="11036" gradientUnits="userSpaceOnUse">
+            <stop offset="0.34046875" style="stop-color:rgb(247,209,213)"/>
+            <stop offset="0.34046875" style="stop-color:rgb(246,209,213)"/>
+            <stop offset="0.3509375" style="stop-color:rgb(246,209,213)"/>
+            <stop offset="0.3509375" style="stop-color:rgb(245,209,213)"/>
+            <stop offset="0.36140625" style="stop-color:rgb(245,209,213)"/>
+            <stop offset="0.36140625" style="stop-color:rgb(244,209,213)"/>
+            <stop offset="0.371875" style="stop-color:rgb(244,209,213)"/>
+            <stop offset="0.371875" style="stop-color:rgb(243,209,213)"/>
+            <stop offset="0.38234375" style="stop-color:rgb(243,209,213)"/>
+            <stop offset="0.38234375" style="stop-color:rgb(242,209,213)"/>
+            <stop offset="0.3928125" style="stop-color:rgb(242,209,213)"/>
+            <stop offset="0.3928125" style="stop-color:rgb(241,209,213)"/>
+            <stop offset="0.40328125" style="stop-color:rgb(241,209,213)"/>
+            <stop offset="0.40328125" style="stop-color:rgb(240,208,213)"/>
+            <stop offset="0.41375" style="stop-color:rgb(240,208,213)"/>
+            <stop offset="0.41375" style="stop-color:rgb(239,208,213)"/>
+            <stop offset="0.42421875" style="stop-color:rgb(239,208,213)"/>
+            <stop offset="0.42421875" style="stop-color:rgb(238,208,213)"/>
+            <stop offset="0.4346875" style="stop-color:rgb(238,208,213)"/>
+            <stop offset="0.4346875" style="stop-color:rgb(237,208,214)"/>
+            <stop offset="0.44515625" style="stop-color:rgb(237,208,214)"/>
+            <stop offset="0.44515625" style="stop-color:rgb(236,208,214)"/>
+            <stop offset="0.455625" style="stop-color:rgb(236,208,214)"/>
+            <stop offset="0.455625" style="stop-color:rgb(235,208,214)"/>
+            <stop offset="0.46609375" style="stop-color:rgb(235,208,214)"/>
+            <stop offset="0.46609375" style="stop-color:rgb(234,207,214)"/>
+            <stop offset="0.4765625" style="stop-color:rgb(234,207,214)"/>
+            <stop offset="0.4765625" style="stop-color:rgb(233,207,214)"/>
+            <stop offset="0.48703125" style="stop-color:rgb(233,207,214)"/>
+            <stop offset="0.48703125" style="stop-color:rgb(232,207,214)"/>
+            <stop offset="0.4975" style="stop-color:rgb(232,207,214)"/>
+            <stop offset="0.4975" style="stop-color:rgb(231,207,214)"/>
+            <stop offset="0.50796875" style="stop-color:rgb(231,207,214)"/>
+            <stop offset="0.50796875" style="stop-color:rgb(230,207,214)"/>
+            <stop offset="0.5184375" style="stop-color:rgb(230,207,214)"/>
+            <stop offset="0.5184375" style="stop-color:rgb(229,207,214)"/>
+            <stop offset="0.52890625" style="stop-color:rgb(229,207,214)"/>
+            <stop offset="0.52890625" style="stop-color:rgb(228,207,215)"/>
+            <stop offset="0.539375" style="stop-color:rgb(228,207,215)"/>
+            <stop offset="0.539375" style="stop-color:rgb(227,206,215)"/>
+            <stop offset="0.54984375" style="stop-color:rgb(227,206,215)"/>
+            <stop offset="0.54984375" style="stop-color:rgb(226,206,215)"/>
+            <stop offset="0.5603125" style="stop-color:rgb(226,206,215)"/>
+            <stop offset="0.5603125" style="stop-color:rgb(224,206,215)"/>
+            <stop offset="0.57078125" style="stop-color:rgb(224,206,215)"/>
+            <stop offset="0.57078125" style="stop-color:rgb(223,206,215)"/>
+            <stop offset="0.58125" style="stop-color:rgb(223,206,215)"/>
+            <stop offset="0.58125" style="stop-color:rgb(222,206,215)"/>
+            <stop offset="0.59171875" style="stop-color:rgb(222,206,215)"/>
+            <stop offset="0.59171875" style="stop-color:rgb(221,206,215)"/>
+            <stop offset="0.6021875" style="stop-color:rgb(221,206,215)"/>
+            <stop offset="0.6021875" style="stop-color:rgb(220,205,215)"/>
+            <stop offset="0.61265625" style="stop-color:rgb(220,205,215)"/>
+            <stop offset="0.61265625" style="stop-color:rgb(219,205,215)"/>
+            <stop offset="0.623125" style="stop-color:rgb(219,205,215)"/>
+            <stop offset="0.623125" style="stop-color:rgb(218,205,216)"/>
+            <stop offset="0.63359375" style="stop-color:rgb(218,205,216)"/>
+            <stop offset="0.63359375" style="stop-color:rgb(217,205,216)"/>
+            <stop offset="0.6440625" style="stop-color:rgb(217,205,216)"/>
+            <stop offset="0.6440625" style="stop-color:rgb(216,205,216)"/>
+            <stop offset="0.65453125" style="stop-color:rgb(216,205,216)"/>
+            <stop offset="0.65453125" style="stop-color:rgb(215,205,216)"/>
+            <stop offset="0.665" style="stop-color:rgb(215,205,216)"/>
+            <stop offset="0.665" style="stop-color:rgb(214,204,216)"/>
+            <stop offset="0.67546875" style="stop-color:rgb(214,204,216)"/>
+            <stop offset="0.67546875" style="stop-color:rgb(213,204,216)"/>
+            <stop offset="0.6859375" style="stop-color:rgb(213,204,216)"/>
+            <stop offset="0.6859375" style="stop-color:rgb(212,204,216)"/>
+            <stop offset="0.69640625" style="stop-color:rgb(212,204,216)"/>
+            <stop offset="0.69640625" style="stop-color:rgb(211,204,216)"/>
+            <stop offset="0.706875" style="stop-color:rgb(211,204,216)"/>
+            <stop offset="0.706875" style="stop-color:rgb(210,204,216)"/>
+            <stop offset="0.71734375" style="stop-color:rgb(210,204,216)"/>
+            <stop offset="0.71734375" style="stop-color:rgb(209,204,217)"/>
+            <stop offset="0.7278125" style="stop-color:rgb(209,204,217)"/>
+            <stop offset="0.7278125" style="stop-color:rgb(208,204,217)"/>
+            <stop offset="0.73828125" style="stop-color:rgb(208,204,217)"/>
+            <stop offset="0.73828125" style="stop-color:rgb(207,203,217)"/>
+            <stop offset="0.74875" style="stop-color:rgb(207,203,217)"/>
+            <stop offset="0.74875" style="stop-color:rgb(206,203,217)"/>
+            <stop offset="0.75921875" style="stop-color:rgb(206,203,217)"/>
+            <stop offset="0.75921875" style="stop-color:rgb(205,203,217)"/>
+            <stop offset="0.7696875" style="stop-color:rgb(205,203,217)"/>
+            <stop offset="0.7696875" style="stop-color:rgb(204,203,217)"/>
+            <stop offset="0.78015625" style="stop-color:rgb(204,203,217)"/>
+            <stop offset="0.78015625" style="stop-color:rgb(202,203,217)"/>
+            <stop offset="0.790625" style="stop-color:rgb(202,203,217)"/>
+            <stop offset="0.790625" style="stop-color:rgb(201,203,217)"/>
+            <stop offset="0.80109375" style="stop-color:rgb(201,203,217)"/>
+            <stop offset="0.80109375" style="stop-color:rgb(200,202,217)"/>
+            <stop offset="0.8115625" style="stop-color:rgb(200,202,217)"/>
+            <stop offset="0.8115625" style="stop-color:rgb(199,202,218)"/>
+            <stop offset="0.82203125" style="stop-color:rgb(199,202,218)"/>
+            <stop offset="0.82203125" style="stop-color:rgb(198,202,218)"/>
+            <stop offset="0.8325" style="stop-color:rgb(198,202,218)"/>
+            <stop offset="0.8325" style="stop-color:rgb(197,202,218)"/>
+            <stop offset="0.84296875" style="stop-color:rgb(197,202,218)"/>
+            <stop offset="0.84296875" style="stop-color:rgb(196,202,218)"/>
+            <stop offset="0.8534375" style="stop-color:rgb(196,202,218)"/>
+            <stop offset="0.8534375" style="stop-color:rgb(195,202,218)"/>
+            <stop offset="0.86390625" style="stop-color:rgb(195,202,218)"/>
+            <stop offset="0.86390625" style="stop-color:rgb(194,202,218)"/>
+            <stop offset="0.874375" style="stop-color:rgb(194,202,218)"/>
+            <stop offset="0.874375" style="stop-color:rgb(193,201,218)"/>
+            <stop offset="0.88484375" style="stop-color:rgb(193,201,218)"/>
+            <stop offset="0.88484375" style="stop-color:rgb(192,201,218)"/>
+            <stop offset="0.8953125" style="stop-color:rgb(192,201,218)"/>
+            <stop offset="0.8953125" style="stop-color:rgb(191,201,218)"/>
+            <stop offset="0.90578125" style="stop-color:rgb(191,201,218)"/>
+            <stop offset="0.90578125" style="stop-color:rgb(190,201,219)"/>
+            <stop offset="0.91625" style="stop-color:rgb(190,201,219)"/>
+            <stop offset="0.91625" style="stop-color:rgb(189,201,219)"/>
+            <stop offset="0.92671875" style="stop-color:rgb(189,201,219)"/>
+            <stop offset="0.92671875" style="stop-color:rgb(188,201,219)"/>
+            <stop offset="0.9371875" style="stop-color:rgb(188,201,219)"/>
+            <stop offset="0.9371875" style="stop-color:rgb(187,200,219)"/>
+            <stop offset="0.94765625" style="stop-color:rgb(187,200,219)"/>
+            <stop offset="0.94765625" style="stop-color:rgb(186,200,219)"/>
+            <stop offset="0.958125" style="stop-color:rgb(186,200,219)"/>
+            <stop offset="0.958125" style="stop-color:rgb(185,200,219)"/>
+            <stop offset="0.96859375" style="stop-color:rgb(185,200,219)"/>
+            <stop offset="0.96859375" style="stop-color:rgb(184,200,219)"/>
+            <stop offset="0.9790625" style="stop-color:rgb(184,200,219)"/>
+            <stop offset="0.9790625" style="stop-color:rgb(183,200,219)"/>
+            <stop offset="0.98953125" style="stop-color:rgb(183,200,219)"/>
+            <stop offset="0.98953125" style="stop-color:rgb(182,200,219)"/>
+            <stop offset="1" style="stop-color:rgb(182,200,219)"/>
+            <stop offset="1" style="stop-color:rgb(180,199,220)"/>
+           </linearGradient>
+          </defs>
+          <path style="fill:url(#gradient1)" d="M 17470,10719 L 17470,11036 17470,11354 13848,11354 13848,11610 12126,11036 13848,10462 13848,10719 17470,10719 Z"/>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id57">
+        <rect class="BoundingBox" stroke="none" fill="none" x="13477" y="10905" width="2888" height="273"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="13447" y="11173"><tspan fill="rgb(0,0,0)" stroke="none">Mail to UMA Trust</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
