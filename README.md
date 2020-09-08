@@ -1,2 +1,2 @@
-# authorization-enhanced-email-system
-Authorization-Enhanced Email System
+# enhanced-email-system
+Enhanced Email System
