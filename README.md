@@ -6,7 +6,7 @@ Electronic mail (email) is the most pervasive form of business information excha
 
 ## Draft
 
-[authorization-enhanced-mail-system-draft-02.pdf] [2]
+[authorization-enhanced-mail-system-draft-02.pdf][2]
 
 [1]: https://en.wikipedia.org/wiki/User-Managed_Access
 [2]: https://github.com/uma-email/proposal/raw/master/authorization-enhanced-mail-system-draft-02.pdf
