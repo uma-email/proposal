@@ -33,7 +33,7 @@
   </font>
  </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -94,9 +94,9 @@
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id5">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6716" y="8558" width="2670" height="1654"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 8051,10210 L 6717,10210 6717,8559 9384,8559 9384,10210 8051,10210 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="7638" y="9533"><tspan fill="rgb(0,0,0)" stroke="none">RqP</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="10195" y="11464" width="2670" height="1654"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 11530,13116 L 10196,13116 10196,11465 12863,11465 12863,13116 11530,13116 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="11117" y="12439"><tspan fill="rgb(0,0,0)" stroke="none">RqP</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
@@ -122,10 +122,10 @@
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id9">
-        <rect class="BoundingBox" stroke="none" fill="none" x="9385" y="9232" width="1125" height="303"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 9665,9384 L 10229,9382"/>
-        <path fill="rgb(0,0,0)" stroke="none" d="M 9686,9534 L 9385,9385 9684,9234 9686,9534 Z"/>
-        <path fill="rgb(0,0,0)" stroke="none" d="M 10208,9232 L 10509,9381 10210,9532 10208,9232 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="11382" y="10409" width="305" height="1058"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 11532,11186 L 11536,10689"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 11682,11167 L 11530,11466 11382,11165 11682,11167 Z"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 11386,10708 L 11538,10409 11686,10710 11386,10708 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
@@ -234,6 +234,14 @@
        <g id="id18">
         <rect class="BoundingBox" stroke="none" fill="none" x="17893" y="6089" width="1242" height="726"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="18143" y="6599"><tspan fill="rgb(0,0,0)" stroke="none">Bar</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id19">
+        <rect class="BoundingBox" stroke="none" fill="none" x="12864" y="10211" width="2188" height="2081"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 13067,12098 L 14848,10404"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 13185,12193 L 12864,12291 12978,11976 13185,12193 Z"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 14730,10309 L 15051,10211 14937,10526 14730,10309 Z"/>
        </g>
       </g>
      </g>
